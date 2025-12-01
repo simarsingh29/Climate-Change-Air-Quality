@@ -6,9 +6,13 @@ This project provides a comprehensive analysis of climate change patterns and ai
 It integrates climate data with air quality metrics, performs statistical and visual analysis, and builds machine learning models to forecast future pollution levels.
 
 ✔ Identifies pollution hotspots
+
 ✔ Detects seasonal and regional trends
+
 ✔ Builds forecasting models
+
 ✔ Generates interactive dashboards
+
 ✔ Actionable insights for policymakers & researchers
 
 # 🎯 Objectives
@@ -73,20 +77,13 @@ Climate-AQI-Analysis/
 
 Random Forest Regressor
 
-XGBoost Regressor
+- XGBoost Regressor
 
-SARIMA
+- SARIMA
 
-ARIMA
+- ARIMA
 
-LSTM (optional advanced)
-
-#📌 Best Model Performance 
-| Metric   | Score |
-| -------- | ----- |
-| RMSE     | 13.41 |
-| MAE      | 8.73  |
-| R² Score | 0.89  |
+- LSTM (optional advanced)
 
 # 🧩 Key Insights
 
